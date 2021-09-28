@@ -1,3 +1,5 @@
 1st edit
 2nd edit
 1st edit on branch1
+
+edit on master after 1st rebase
